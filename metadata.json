@@ -1,0 +1,6 @@
+{
+  "name": "Android Content Farm Management System",
+  "description": "Enterprise automated control system for Android device farms with Laixi & Autox.js integration, Celery scheduler, and dark-mode management console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
